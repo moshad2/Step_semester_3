@@ -51,3 +51,30 @@ Create `feature/session_3` from `develop` and work on Session 3 topic problems.
 
 **Issues Faced:**
 - None
+
+---
+
+## Date: 19-09-2026
+
+**Today's Work:**
+Completed Week 3 problems in `feature/session_3`:
+
+*Class Problems:*
+1. Attendance System (Procedural to OOP)
+2. Fee Account Extension System
+3. Hostel Room Allocation Null Safety
+4. Static vs Instance Boundary Fix
+5. Capstone: Fee & Hostel Management Mini-System
+
+*Assignment Problems:*
+1. Library Fine System
+2. Employee Extension System
+3. Parking Allocation Null Safety
+4. Library Member Static Boundary Fix
+5. Capstone: HR & Parking Mini-System
+
+**Next Session Plan:**
+Create `feature/session_4` from `develop` and work on Session 4 topic problems.
+
+**Issues Faced:**
+- None
