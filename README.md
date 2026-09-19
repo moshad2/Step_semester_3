@@ -1,7 +1,4 @@
 # Step_semester_3
-## Date: 19-09-2026
-
-# Step_semester_3
 
 ## Date: 19-09-2026
 
