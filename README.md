@@ -78,3 +78,30 @@ Create `feature/session_4` from `develop` and work on Session 4 topic problems.
 
 **Issues Faced:**
 - None
+
+---
+
+## Date: 21-09-2026
+
+**Today's Work:**
+Completed Week 4 problems in `feature/session_4`:
+
+*Class Problems:*
+1. Bus Ticket Booking Validator
+2. Remainder-Fair FareSplitter
+3. Bus Route Ranking Engine
+4. Tiered Boarding Penalty Calculator
+5. Nightly Fleet Reconciliation Engine
+
+*Assignment Problems:*
+1. Ghost Order Validator
+2. ASAP or Scheduled Delivery Slot Booking
+3. Canteen Trust-Score Ranking Engine
+4. Exam-Week Surge Fee Calculator
+5. Nightly Multi-Kitchen Reconciliation Engine
+
+**Next Session Plan:**
+Create `feature/session_5` from `develop` and work on Session 5 topic problems.
+
+**Issues Faced:**
+- None
