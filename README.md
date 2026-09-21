@@ -105,3 +105,52 @@ Create `feature/session_5` from `develop` and work on Session 5 topic problems.
 
 **Issues Faced:**
 - None
+
+## Log Entries
+
+### Date: 21-09-2026
+
+**Today's Work:**
+Completed Week 4 and Week 5 class and assignment problems.
+
+#### Session 4: Constructors & Keywords (`this`, `super`, `final`, `static`)
+
+*Class Problems:*
+1. `P1_BusTicketValidator.java` — Bus Ticket Booking Validator
+2. `P2_FareSplitter.java` — Remainder-Fair FareSplitter
+3. `P3_BusRouteRankingEngine.java` — Bus Route Ranking Engine
+4. `P4_BoardingPenaltyCalculator.java` — Tiered Boarding Penalty Calculator
+5. `P5_FleetReconciliationEngine.java` — Nightly Fleet Reconciliation Engine
+
+*Assignment Problems:*
+1. `A1_GhostOrderValidator.java` — Ghost Order Validator
+2. `A2_DeliverySlotBooking.java` — ASAP or Scheduled Delivery Slot Booking
+3. `A3_CanteenRankingEngine.java` — Canteen Trust-Score Ranking Engine
+4. `A4_SurgeFeeCalculator.java` — Exam-Week Surge Fee Calculator
+5. `A5_MultiKitchenReconciliationEngine.java` — Nightly Multi-Kitchen Reconciliation Engine
+
+---
+
+#### Session 5: Access Modifiers, Encapsulation & Object Modeling
+
+*Class Problems:*
+1. `P1_FieldVisibilityAndValidator.java` — Field Visibility & Intake Validator
+2. `P2_CrossPackageInheritanceReach.java` — Cross-Package Inheritance Reach
+3. `P3_VitalsMonitoringGuard.java` — Vitals Monitoring Encapsulation Guard
+4. `P4_PatientProfileJavaBean.java` — PatientProfile JavaBean, Chained Constructors & Locker PIN
+5. `P5_ImmutableDischargeSummary.java` — Immutable Discharge Summary & Nightly Ledger
+
+*Assignment Problems:*
+1. `A1_MembershipFieldReachChecker.java` — Membership Field Reach Checker
+2. `A2_ReferenceDeskSubclassReach.java` — Reference Desk Subclass Reach
+3. `A3_BookCopyCirculationGuard.java` — Book Copy Circulation Guard
+4. `A4_LibraryMemberJavaBean.java` — Library Member JavaBean, Chained Constructors & Security Answer
+5. `A5_ImmutableLoanReceipt.java` — Immutable Loan Receipt & Nightly Circulation Ledger
+
+---
+
+**Next Session Plan:**
+Create `feature/session_6` from `develop` and start working on Week 6 topic problems.
+
+**Issues Faced:**
+- None
