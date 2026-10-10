@@ -154,3 +154,34 @@ Create `feature/session_6` from `develop` and start working on Week 6 topic prob
 
 **Issues Faced:**
 - None
+
+## Log Entries
+
+### Date: 10-10-2026
+
+**Today's Work:**
+Completed Week 6 class and assignment problems in `feature/session_6`:
+
+#### Session 6: Inheritance & Polymorphism
+
+*Class Problems:*
+1. `P1_TicketHierarchyValidator.java` — Ticket Hierarchy Foundation & Batch Registration Validator
+2. `P2_FamilyTreeShapes.java` — Three Shapes of One Family Tree
+3. `P3_LateRegistrationPenalty.java` — Late-Registration Penalty Override & Audit Trail
+4. `P4_NightlyTicketAnnouncer.java` — Nightly Ticket Announcer
+5. `P5_NightlySettlementEngine.java` — Fest-Wide Ticket Issuance, Promo Codes & Nightly Settlement Engine
+
+*Assignment Problems:*
+1. `A1_RaceEntryValidator.java` — Race Entry Foundation & Batch Bib Validator
+2. `A2_RaceFamilyShapes.java` — Three Shapes of One Race Family
+3. `A3_LateWithdrawalPenalty.java` — Late-Withdrawal Penalty Override & Audit Trail
+4. `A4_RaceDayAnnouncerBoard.java` — Race-Day Announcer Board
+5. `A5_RaceNightlySettlementEngine.java` — Race-Wide Bib Issuance, Discount Codes & Nightly Settlement Engine
+
+---
+
+**Next Session Plan:**
+Create `feature/session_7` from `develop` and start working on Week 7 topic problems.
+
+**Issues Faced:**
+- None
